@@ -5,7 +5,7 @@ public class Car2 {
     String color;
     String type;
     int year;
-//Task 1 car
+//Task 1 car2
     public void getColor() {
         System.out.println(this.color);
     }
