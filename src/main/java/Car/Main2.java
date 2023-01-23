@@ -2,7 +2,7 @@ package Car;
 
 public class Main2 {
     public static void main(String[] args) {
-
+//task2
     Car2 car2 = new Car2();
     car2.color = "Blue";
     car2.type = "Минивэн";
